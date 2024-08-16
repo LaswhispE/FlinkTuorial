@@ -1,0 +1,2 @@
+Event{user='BOb', url='./prod?id=18', timestamp=1970-01-01 08:00:03.9}
+Event{user='Alice', url='./prod?id=040', timestamp=1970-01-01 08:00:05.0}
